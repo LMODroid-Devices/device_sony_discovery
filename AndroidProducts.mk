@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_discovery.mk
+    $(LOCAL_DIR)/lmodroid_discovery.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_discovery-user \
-    lineage_discovery-userdebug \
-    lineage_discovery-eng
+    lmodroid_discovery-user \
+    lmodroid_discovery-userdebug \
+    lmodroid_discovery-eng
