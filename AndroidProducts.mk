@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_discovery.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_discovery-user \
-    lmodroid_discovery-userdebug \
-    lmodroid_discovery-eng
